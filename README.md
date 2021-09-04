@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ewaqarkhan
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning ML
+- GIKI (18-22)
+- 
 
 <!---
 Ewaqarkhan/Ewaqarkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
